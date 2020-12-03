@@ -38,5 +38,9 @@ To ban a user, type this:
 h!ban @user
 ```
 
+{% hint style="info" %}
+Note: The bot role must be higher than the person you want to ban.
+{% endhint %}
+
 That will ban a @user from your discord server!
 
